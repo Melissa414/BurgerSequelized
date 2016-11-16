@@ -1,0 +1,29 @@
+body{
+  background-image: url("../img/bob.jpg");
+}
+h1{
+  text-align: center;
+  padding:30px;
+  color: white;
+  font-size: 64px;
+}
+h2{
+  padding: 20px;
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-style: solid;
+}
+li{
+  padding: 10px;
+  background-color: white;
+  margin-right: 40px;
+  border-style: solid;
+}
+.create-update-form{
+  padding: 30px;
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-style: solid;
+}
